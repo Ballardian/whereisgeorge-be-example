@@ -1,7 +1,7 @@
 # This would contain all of the views for the friends app.
 # Depending on the number of views, this may be replaced with a folder
 # containing a file for each model e.g. friends/views/ViewSet.py
-# This would also contain the serializers for each indivual ViewSet in the friends app.
+# This would also contain the serializers for each individual ViewSet in the friends app.
 # e.g InputSerialiser, OutputSerializer etc.
 
 # The views implement very little logic, and are mostly used to call the services and return the response.
